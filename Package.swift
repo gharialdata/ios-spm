@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "Gharial",
             url: "https://resources.gharialdata.com/sdk/ios/Gharial-1.0.0.xcframework.zip",
-            checksum: "7fe6c32120b6fed982a511ce1d8e884d0b86093ae1215b2bfb8e0856be91c20c"
+            checksum: "6cdaa1f01762e79dbd559c9af326352bc004933803d71aed097b6525e7bc7020"
         ),
         .binaryTarget(
             name: "WavebrookCore",
