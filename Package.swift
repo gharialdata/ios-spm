@@ -22,12 +22,12 @@ let package = Package(
         ),
         .binaryTarget(
             name: "WavebrookCore",
-            url: "https://files.gharialdata.com/sdk/ios/WavebrookCore-2.0.0.xcframework.zip",
+            url: "https://resources.wavebrook.com/sdk/ios/WavebrookCore-2.0.0.xcframework.zip",
             checksum: "5fb3f508736a1512c3ca384f7dbb3a575c0018bfd61d2206e37c70856384f825"
         ),
         .binaryTarget(
             name: "WavebrookAdapterRootlake",
-            url: "https://files.gharialdata.com/sdk/ios/WavebrookAdapterRootlake-1.1.1.0.xcframework.zip",
+            url: "https://resources.wavebrook.com/sdk/ios/WavebrookAdapterRootlake-1.1.1.0.xcframework.zip",
             checksum: "14ce8419dfce74623a477d2023c2d5bacb9ed2eaa4bc931d29e5d3112b240811"
         ),
         .target(
